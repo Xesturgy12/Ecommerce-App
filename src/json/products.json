@@ -1,0 +1,132 @@
+{
+  "data": {
+    "products": [
+      {
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "currencyFormat": "₹",
+        "currencyId": "INR",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam hendrerit sapien nunc, non vehicula tortor vestibulum vel. Nullam et velit sapien. Cras imperdiet ex malesuada diam venenatis, vel viverra nisi luctus.",
+        "id": 0,
+        "isFreeShipping": true,
+        "price": 10.9,
+        "url" : "/products/18644119330491310-1-product.webp",
+        "sku": 8552515757838644,
+        "style": "White T-shirt",
+        "title": "Cropped Stay Groovy off white",
+        "type": "T-shirt"
+      },
+      {
+        "availableSizes": ["X", "ML", "L"],
+        "currencyFormat": "₹",
+        "currencyId": "INR",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam hendrerit sapien nunc, non vehicula tortor vestibulum vel. Nullam et velit sapien. Cras imperdiet ex malesuada diam venenatis, vel viverra nisi luctus.",
+        "id": 11,
+        "isFreeShipping": true,
+        "price": 13.25,
+        "sku": 398760984341265610,
+        "style": "Wine",
+        "url":"/products/39876704341265610-1-product.webp",
+        "title": "Basic Cactus White T-shirt",
+        "type": "T-shirt"
+      },
+      {
+        "availableSizes": ["XL"],
+        "currencyFormat": "₹",
+        "currencyId": "INR",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam hendrerit sapien nunc, non vehicula tortor vestibulum vel. Nullam et velit sapien. Cras imperdiet ex malesuada diam venenatis, vel viverra nisi luctus. - Jogador",
+        "id": 4,
+        "isFreeShipping": false,
+        "price": 15.9,
+        "sku": 9197907683445676,
+        "url":"/products/pant1.jpg",
+        "style": "Yoga Pants",
+        "title": "Casual Yoga Pants",
+        "type": "Pant"
+      },
+      {
+        "availableSizes": ["S", "XS"],
+        "currencyFormat": "₹",
+        "currencyId": "INR",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam hendrerit sapien nunc, non vehicula tortor vestibulum vel. Nullam et velit sapien. Cras imperdiet ex malesuada diam venenatis, vel viverra nisi luctus.",
+        "id": 12,
+        "isFreeShipping": true,
+        "price": 10.9,
+        "sku": 12064242240195392,
+        "url":"/products/hoodie43.jpg",
+        "style": "Really Cool Hoodie",
+        "title": "Off Pink Hoodie",
+        "type": "Hoodie"
+      },
+      {
+        "availableSizes": ["X", "M", "XS"],
+        "currencyFormat": "₹",
+        "currencyId": "INR",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam hendrerit sapien nunc, non vehicula tortor vestibulum vel. Nullam et velit sapien. Cras imperdiet ex malesuada diam venenatis, vel viverra nisi luctus.",
+        "id": 14,
+        "isFreeShipping": true,
+        "price": 9,
+        "sku": 10686354876628304,
+        "url":"/products/trousers2.jpg",
+        "style": "Striped trousers",
+        "title": "Striped Black and white Trousers",
+        "type": "Trouser"
+      },
+      {
+        "availableSizes": ["M", "S", "L"],
+        "currencyFormat": "₹",
+        "currencyId": "INR",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam hendrerit sapien nunc, non vehicula tortor vestibulum vel. Nullam et velit sapien. Cras imperdiet ex malesuada diam venenatis, vel viverra nisi luctus.",
+        "id": 16,
+        "isFreeShipping": false,
+        "price": 9.9,
+        "sku": 10685434557628304,
+        "url":"/products/jeans2.jpg",
+        "style": "Casual Jeans",
+        "title": "Casual Mens Jeans",
+        "type": "Jeans"
+      },
+      {
+        "availableSizes": ["M", "XL", "L"],
+        "currencyFormat": "₹",
+        "currencyId": "INR",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam hendrerit sapien nunc, non vehicula tortor vestibulum vel. Nullam et velit sapien. Cras imperdiet ex malesuada diam venenatis, vel viverra nisi luctus.",
+        "id": 17,
+        "isFreeShipping": false,
+        "price": 9.9,
+        "sku": 10621354557628304,
+        "url":"/products/pant4.jpg",
+        "style": "Casual Pants",
+        "title": "Casual Mens Pant",
+        "type": "Pant"
+      },
+      {
+        "availableSizes": ["XXL", "XL", "L"],
+        "currencyFormat": "₹",
+        "currencyId": "INR",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam hendrerit sapien nunc, non vehicula tortor vestibulum vel. Nullam et velit sapien. Cras imperdiet ex malesuada diam venenatis, vel viverra nisi luctus.",
+        "id": 47,
+        "isFreeShipping": true,
+        "price": 19.9,
+        "sku": 10686354554448304,
+        "url":"/products/hoodie1.jpg",
+        "style": "Unisex Hoodie",
+        "title": "Unisex Light Blue Hoodie",
+        "type": "Hoodie"
+      },
+      {
+        "availableSizes": ["XXL", "XL", "L"],
+        "currencyFormat": "₹",
+        "currencyId": "INR",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam hendrerit sapien nunc, non vehicula tortor vestibulum vel. Nullam et velit sapien. Cras imperdiet ex malesuada diam venenatis, vel viverra nisi luctus.",
+        "id": 471,
+        "isFreeShipping": true,
+        "price": 49.9,
+        "sku": 10686354557324304,
+        "url":"/products/trousers.jpg",
+        "style": "Khakhi Trousers",
+        "title": "New Women khakhi Trousers",
+        "type": "Trouser"
+      }
+    ]
+  }
+}
