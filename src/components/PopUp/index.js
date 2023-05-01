@@ -9,7 +9,7 @@ export default function PopUp(props) {
   console.log(data);
 
   return (
-    <div className='popup-main' onClick={closepopup}>
+    <div className='popup-main'>
       <div className='popup-container'>
         <CustomButton label='X' className='close-button' onclickFunction={closepopup}/>
         {/* <div className='close-button'>X</div> */}
